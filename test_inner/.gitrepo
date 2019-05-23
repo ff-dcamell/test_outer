@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/ff-dcamell/test_inner.git
+	branch = master
+	commit = 1e7231af46c146109d543e2daccc5534b86d4fe3
+	parent = 1b880584e2044433f49a8816e7e9c4adcf424475
+	method = merge
+	cmdver = 0.4.0
