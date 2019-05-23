@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/ff-dcamell/test_inner.git
 	branch = master
-	commit = 1e7231af46c146109d543e2daccc5534b86d4fe3
-	parent = 1b880584e2044433f49a8816e7e9c4adcf424475
+	commit = dfa3b81a86ad97a1246323746ad3b1baad960e4b
+	parent = 8f3b75b10d5ef6d0c2be38ffddf2e3e6197f3e30
 	method = merge
 	cmdver = 0.4.0
